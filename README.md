@@ -8,7 +8,7 @@ Grove Reading Log is a full-featured iOS reading tracker designed to help users 
 
 A short walkthrough demonstrating authentication, library management, reading analytics, and UI flow:
 
-▶️ https://www.youtube.com/watch?v=lFk5TdH2WQ8
+ https://www.youtube.com/watch?v=lFk5TdH2WQ8
 
 ## Features
 
