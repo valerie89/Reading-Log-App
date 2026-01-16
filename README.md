@@ -1,18 +1,18 @@
-# Grove Reading Log 📚  
+# Grove Reading Log 
 **iOS Application | SwiftUI | Firebase | Google Books API**
 
 Grove Reading Log is a full-featured iOS reading tracker designed to help users organize their books, track reading progress, and gain meaningful insights into their reading habits. The app supports authenticated, user-specific data and dynamically updates content using real APIs—no hardcoded demo data.
 
 ---
-## 🎥 App Demo
+## App Demo
 
 A short walkthrough demonstrating authentication, library management, reading analytics, and UI flow:
 
 ▶️ https://www.youtube.com/watch?v=lFk5TdH2WQ8
 
-## ✨ Features
+## Features
 
-### 📖 Library Management
+### Library Management
 - Add books via **Google Books API** search or manual entry
 - Organize books into shelves:
   - Currently Reading
@@ -22,31 +22,31 @@ A short walkthrough demonstrating authentication, library management, reading an
 - Rate books and view detailed book information
 - Prevents duplicate books per user
 
-### 🏠 Personalized Home Dashboard
+### Personalized Home Dashboard
 - “Continue Reading” carousel based on active books
 - Weekly reading snapshot (pages, minutes, sessions)
 - Trending and recommendation sections powered by live API data
 - Content adapts per user and updates in real time
 
-### 📊 Reading Statistics
+### Reading Statistics
 - Weekly and yearly reading views
 - Reading goals with progress visualization
 - Reading streaks and session tracking
 - Pages read, minutes spent, and session counts
 
-### 👤 Profile & Boards
+### Profile & Boards
 - Authenticated user profile
 - Boards feature to curate and group books (Pinterest-style)
 - Profile stats update automatically as reading activity changes
 
-### 🔐 Authentication & Persistence
+### Authentication & Persistence
 - **Firebase Authentication (Google Sign-In)**
 - User-specific data storage (each account sees only their own library, stats, and boards)
 - Data persists across app launches and sessions
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language:** Swift  
 - **Framework:** SwiftUI  
@@ -58,7 +58,7 @@ A short walkthrough demonstrating authentication, library management, reading an
 
 ---
 
-## 🚀 What I Built & Learned
+## What I Built & Learned
 
 - Designed a multi-tab SwiftUI app with consistent visual language
 - Integrated third-party authentication and external APIs
@@ -70,7 +70,7 @@ A short walkthrough demonstrating authentication, library management, reading an
 
 ---
 
-## ⚠️ Setup Notes (For Reviewers)
+## Setup Notes (For Reviewers)
 
 This repository **intentionally excludes**:
 - `GoogleService-Info.plist`
@@ -86,7 +86,7 @@ The app architecture is complete and production-ready; sensitive credentials are
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Cloud sync across multiple devices (Firestore / CloudKit)
 - Expanded analytics (reading trends, averages, comparisons)
@@ -96,7 +96,7 @@ The app architecture is complete and production-ready; sensitive credentials are
 
 ---
 
-## 📜 License
+## License
 
 Copyright © 2026 Valerie Pena  
 
